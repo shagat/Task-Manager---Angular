@@ -54,10 +54,11 @@ body {
 }
 
 .form-control input {
+  align-self: center;
   width: 100%;
   height: 40px;
-  margin: 5px;
-  padding: 3px 7px;
+  /* margin: 5px;
+  padding: 3px 5px; */
   font-size: 17px;
 }
 
