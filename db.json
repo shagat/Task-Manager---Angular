@@ -19,10 +19,10 @@
       "reminder": false
     },
     {
-      "id": "4",
-      "text": "leather sofa",
-      "day": "schlitz irony af flexitarian",
-      "reminder": true
+      "text": "do laundry",
+      "day": "10am 18th",
+      "reminder": true,
+      "id": "NjwsCpS"
     }
   ]
 }
